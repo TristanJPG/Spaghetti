@@ -1,0 +1,22 @@
+body {
+	background: rgb(0,0,0);
+	
+}
+
+h1{
+	text-align: center;
+	color: #3EAE39
+}
+.list-1{
+	color: rgb(233,175,19,1.00)
+}
+.list-2{
+	color:#D70F27
+}
+ol {
+	text-align: center;
+	color: white;
+}
+hr{
+	color: white;
+}
